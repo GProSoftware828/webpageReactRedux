@@ -1,4 +1,4 @@
-import { combineReducers } from 'redux'; //Documentation says if is a named component
+import { combineReducers } from 'redux';
 
 const songsReducer = () => {
   return [
